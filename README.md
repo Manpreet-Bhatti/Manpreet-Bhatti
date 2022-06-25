@@ -13,7 +13,7 @@
 </a>
 </div>
 
-<h1>Welcome to Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"/></h1>
+# Welcome to Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"/>
 
 <div>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
@@ -22,20 +22,20 @@
 
 ---
 
-<h2>💻 About Me</h2>
+### 💻 About Me
 
 I'm a Front End (aspiring Full Stack) Developer based in Toronto :canada:
 
 - :telescope: I'm currently working as a Developer for [Critical Mass](https://www.criticalmass.com/), building components and features for automative clients
-- :construction: When I'm not working, I'm actively build out my personal project -- [RateThatMovie](https://github.com/Manpreet-Bhatti/RateThatMovie), a full-fledged web application for avid movie watchers so that they can track their movies. I'm hoping to scale it out to TV shows in the near future as well.
+- :construction: When I'm not working, I'm actively build out my personal project — [RateThatMovie](https://github.com/Manpreet-Bhatti/RateThatMovie), a full-fledged web application for avid movie watchers so that they can track their movies. I'm hoping to scale it out to TV shows in the near future as well.
 - :seedling: Exploring the versatility and power of [Go](https://go.dev/).
 - :speech_balloon: In my free time, I like to solve problems on [Leetcode](https://leetcode.com/) where I have also [documented](https://github.com/Manpreet-Bhatti/leetcode-solutions) my solutions and progress, hoping to complete problems in both JavaScript and Python.
 
 ---
 
-<h2>🛠 Dev Tools</h2>
+### 🛠️ Dev Tools
 
-### Languages
+#### Languages
 
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -49,7 +49,7 @@ I'm a Front End (aspiring Full Stack) Developer based in Toronto :canada:
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
 </div>
 
-### Frameworks/Libraries
+#### Frameworks/Libraries
 
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -58,14 +58,14 @@ I'm a Front End (aspiring Full Stack) Developer based in Toronto :canada:
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
 </div>
 
-### Databases
+#### Databases
 
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
 </div>
 
-### Other
+#### Other
 
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
@@ -74,7 +74,7 @@ I'm a Front End (aspiring Full Stack) Developer based in Toronto :canada:
 
 ---
 
-<h2>🔥 My Stats</h2>
+### 🔥 My Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manpreet-Bhatti&show_icons=true&theme=dracula&include_all_commits=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manpreet-Bhatti&theme=dracula&background=000000)](https://git.io/streak-stats)
