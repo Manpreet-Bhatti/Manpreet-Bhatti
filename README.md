@@ -67,3 +67,11 @@ I'm a Front End (aspiring Full Stack) Developer
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+## :fire: My Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manpreet-Bhatti&show_icons=true&theme=dracula&include_all_commits=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manpreet-Bhatti&theme=dracula&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manpreet-Bhatti&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
