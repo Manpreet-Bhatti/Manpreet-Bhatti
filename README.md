@@ -26,7 +26,12 @@ Welcome to Me
 
 ## :computer: About Me
 
-I'm a Front End (aspiring Full Stack) Developer
+I'm a Front End (aspiring Full Stack) Developer based in Toronto :canada:
+
+- :telescope: I'm currently working as a Front End Developer for [Critical Mass](https://www.criticalmass.com/), building components and features for automative clients
+- :construction: When I'm not working, I'm actively build out my personal project -- [RateThatMovie](https://github.com/Manpreet-Bhatti/RateThatMovie), a full-fledged web application for avid movie watchers so that they can track their movies. I'm hoping to scale it out to TV shows in the near future as well.
+- :seedling: Exploring the beauty and power of [Go](https://go.dev/).
+- :speech_balloon: In my free time, I like to solve problems on [Leetcode](https://leetcode.com/) where I have also [documented](https://github.com/Manpreet-Bhatti/leetcode-solutions) my solutions and progress, hoping to complete problems in both JavaScript and Python.
 
 ---
 
@@ -66,6 +71,7 @@ I'm a Front End (aspiring Full Stack) Developer
 
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
 </div>
 
 ---
