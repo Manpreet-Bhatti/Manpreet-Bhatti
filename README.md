@@ -22,7 +22,7 @@
 
 ---
 
-<h2> 💻 About Me</h2>
+<h2>💻 About Me</h2>
 
 I'm a Front End (aspiring Full Stack) Developer based in Toronto :canada:
 
