@@ -24,7 +24,7 @@
 
 ### 💻 About Me
 
-I'm a Front End (aspiring Full Stack) Developer based in Toronto :canada:
+I'm a Front End (aspiring Full Stack) Developer based in Toronto 🇨🇦.
 
 - :telescope: I'm currently working as a Developer for [Critical Mass](https://www.criticalmass.com/), building components and features for automative clients
 - :construction: When I'm not working, I'm actively build out my personal project — [RateThatMovie](https://github.com/Manpreet-Bhatti/RateThatMovie), a full-fledged web application for avid movie watchers so that they can track their movies. I'm hoping to scale it out to TV shows in the near future as well.
