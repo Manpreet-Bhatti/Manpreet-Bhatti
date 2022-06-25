@@ -1,16 +1,23 @@
-### Hi there 👋
+<div id="header" align="center">
+<img src="./manpreet-coding.png" width="100"/>
 
-<!--
-**Manpreet-Bhatti/Manpreet-Bhatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges">
+<a href="https://www.linkedin.com/in/manpreet1bhatti/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+</a>
+<a href="mailto:manpreet@bhatti.net">
+<img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge" />
+</a>
+<a href="https://manpreetbhatti.com/">
+<img src="https://img.shields.io/badge/website-grey?logo=react&logoColor=bluee&style=for-the-badge" />
+</a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>
+Welcome to Me
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+</div>
+</div>
