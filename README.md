@@ -13,16 +13,16 @@
 </a>
 </div>
 
-# Welcome to Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<h1>Welcome to Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <div>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 </div>
 </div>
 
 ---
 
-## :computer: About Me
+<h2> 💻 About Me</h2>
 
 I'm a Front End (aspiring Full Stack) Developer based in Toronto :canada:
 
@@ -33,7 +33,7 @@ I'm a Front End (aspiring Full Stack) Developer based in Toronto :canada:
 
 ---
 
-## :hammer_and_wrench: Dev Tools
+<h2>🛠 Dev Tools</h2>
 
 ### Languages
 
@@ -74,7 +74,7 @@ I'm a Front End (aspiring Full Stack) Developer based in Toronto :canada:
 
 ---
 
-## :fire: My Stats
+<h2>🔥 My Stats</h2>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manpreet-Bhatti&show_icons=true&theme=dracula&include_all_commits=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manpreet-Bhatti&theme=dracula&background=000000)](https://git.io/streak-stats)
