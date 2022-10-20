@@ -24,7 +24,7 @@
 
 ### 💻 About Me
 
-I'm a front-end (aspiring full-stack) Developer based in 🇨🇦.
+I'm a front end (aspiring full stack) developer based in 🇨🇦.
 
 - :telescope: I'm a former front-end developer for [Critical Mass](https://www.criticalmass.com/), where I buildt components and features for automative clients.
 - :construction: When I'm not working, I'm actively build out my personal project — [RateThatMovie](https://github.com/Manpreet-Bhatti/RateThatMovie), a full-fledged web application for avid movie watchers so that they can track their movies. I'm hoping to scale it out to TV shows in the near future as well. In addition, I help scale and develop [Graf-Gas](https://www.grafgas.com), a data analytical dashboard for fleet management.
