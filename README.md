@@ -13,10 +13,10 @@
 </a>
 </div>
 
-# Welcome to Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"/>
+### Welcome to Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"/>
 
 <div>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="400"/>
 </div>
 </div>
 
@@ -24,10 +24,10 @@
 
 ### 💻 About Me
 
-I'm a Front End (aspiring Full Stack) Developer based in Toronto 🇨🇦.
+I'm a front end (aspiring full stack) developer based in 🇨🇦.
 
-- :telescope: I'm currently working as a Developer for [Critical Mass](https://www.criticalmass.com/), building components and features for automative clients.
-- :construction: When I'm not working, I'm actively build out my personal project — [RateThatMovie](https://github.com/Manpreet-Bhatti/RateThatMovie), a full-fledged web application for avid movie watchers so that they can track their movies. I'm hoping to scale it out to TV shows in the near future as well.
+- :telescope: I'm a former front-end developer for [Critical Mass](https://www.criticalmass.com/), where I buildt components and features for automative clients.
+- :construction: When I'm not working, I'm actively build out my personal project — [RateThatMovie](https://github.com/Manpreet-Bhatti/RateThatMovie), a full-fledged web application for avid movie watchers so that they can track their movies. I'm hoping to scale it out to TV shows in the near future as well. In addition, I help scale and develop [Graf-Gas](https://www.grafgas.com), a data analytical dashboard for fleet management.
 - :seedling: Exploring the versatility and power of [Go](https://go.dev/).
 - :speech_balloon: In my free time, I like to solve problems on [Leetcode](https://leetcode.com/) where I have also [documented](https://github.com/Manpreet-Bhatti/leetcode-solutions) my solutions and progress, hoping to complete problems in both JavaScript and Python.
 
@@ -54,8 +54,8 @@ I'm a Front End (aspiring Full Stack) Developer based in Toronto 🇨🇦.
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" width="40" height="40" />&nbsp;
+<img src="https://skillicons.dev/icons?i=flask" title="Flask" alt="Flask" width="40" height="40" />&nbsp;
 </div>
 
 #### Databases
