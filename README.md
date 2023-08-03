@@ -56,6 +56,8 @@ I'm a front end (aspiring full stack) developer based in 🇨🇦.
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" width="40" height="40" />&nbsp;
 <img src="https://skillicons.dev/icons?i=flask" title="Flask" alt="Flask" width="40" height="40" />&nbsp;
+<img src="https://skillicons.dev/icons?i=vue" title="Vue" alt="Vue" width="40" height="40" />&nbsp;
+<img src="https://skillicons.dev/icons?i=nuxt" title="Nuxt.js" alt="Nuxt.js" width="40" height="40" />&nbsp;
 </div>
 
 #### Databases
