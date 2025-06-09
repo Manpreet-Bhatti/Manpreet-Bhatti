@@ -27,8 +27,6 @@
 I'm a front end (aspiring full stack) developer based in 🇨🇦.
 
 - :telescope: I'm currently a Product Engineer at [Agentnoon](https://agentnoon.com/), where I help supercharge workforce planning with data driven insights.
-- :construction: When I'm not working, I'm actively build out my personal project — [RateThatMovie](https://github.com/Manpreet-Bhatti/RateThatMovie), a full-fledged web application for avid movie watchers so that they can track their movies. I'm hoping to scale it out to TV shows in the near future as well. In addition, I help scale and develop [Graf-Gas](https://www.grafgas.com), a data analytical dashboard for fleet management.
-- :seedling: Exploring the versatility and power of [Go](https://go.dev/).
 - :speech_balloon: In my free time, I like to solve problems on [Leetcode](https://leetcode.com/) where I have also [documented](https://github.com/Manpreet-Bhatti/leetcode-solutions) my solutions and progress, hoping to complete problems in both JavaScript and Python.
 
 ---
