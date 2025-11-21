@@ -27,7 +27,7 @@
 I'm a front end (aspiring full stack) developer based in 🇨🇦.
 
 - :telescope: I'm currently a Software Developer at [Dayforce](https://www.dayforce.com/ca), where I help supercharge workforce planning with data driven insights.
-- :speech_balloon: In my free time, I like to solve problems on [Leetcode](https://leetcode.com/) where I have also [documented](https://github.com/Manpreet-Bhatti/leetcode-solutions) my solutions and progress, hoping to complete problems in both JavaScript and Python.
+- :speech_balloon: In my free time, I like to solve problems on [Leetcode](https://leetcode.com/) where I have also [documented](https://github.com/Manpreet-Bhatti/leetcode-solutions) my solutions and progress, working towards completing problems in both JavaScript and Python.
 
 ---
 
