@@ -76,6 +76,4 @@ I'm a front end (aspiring full stack) developer based in 🇨🇦.
 
 ### 🔥 My Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manpreet-Bhatti&show_icons=true&theme=dracula&include_all_commits=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manpreet-Bhatti&theme=dracula&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manpreet-Bhatti&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
