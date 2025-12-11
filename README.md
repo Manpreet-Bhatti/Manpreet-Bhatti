@@ -71,9 +71,3 @@ I'm a front end (aspiring full stack) developer based in 🇨🇦.
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### 🔥 My Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manpreet-Bhatti&theme=dracula&background=000000)](https://git.io/streak-stats)
